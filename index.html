@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Year Predictor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="toggle-wrapper">
+      <input type="checkbox" id="darkModeToggle" />
+      <label class="toggle-label" for="darkModeToggle">
+        <span class="icon sun">☀️</span>
+        <span class="icon moon">🌙</span>
+        <span class="toggle-ball"></span>
+      </label>
+    </div>
+    
+    <h1>Year predictor</h1>
+    <p>Enter the current year to predict next year</p>
+    <div class="input-group">
+      <input type="number" id="yearInput" placeholder="Enter year" />
+      <button onclick="predictYear()">Predict next year</button>
+    </div>
+
+    <div id="output">
+      <div class="loader" id="loader" style="display: none;"></div>
+      <p class="output-text" id="outputText"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
