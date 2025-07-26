@@ -9,7 +9,7 @@ function predictYear() {
   const loader = document.getElementById("loader");
 
   if (!year || isNaN(year)) {
-    outputText.textContent = "Please enter a valid year.";
+    outputText.textContent = "Enter a valid year.";
     return;
   }
 
@@ -34,7 +34,7 @@ function predictYear() {
   // After 5 seconds, show the result
   setTimeout(() => {
     const nextYear = parseInt(year) + 1;
-    outputText.textContent = `Predicted next year: ${nextYear}`;
+    outputText.textContent = `Predicted Next Year: ${nextYear}`;
     loader.style.display = "none";
   }, 5000);
 }
