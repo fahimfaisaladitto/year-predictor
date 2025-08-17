@@ -68,4 +68,5 @@ A sleek, modern web application that "predicts" the next year based on user inpu
 
 4. Open in Browser: Right-click the index.html file and choose "Open with" your preferred web browser (e.g., Chrome, Firefox, Safari, Edge).
 
-That's it! The application will be running locally on your machine.
+
+   That's it! The application will be running locally on your machine.
