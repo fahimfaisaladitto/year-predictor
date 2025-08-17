@@ -1,7 +1,7 @@
 # Year Predictor
 A sleek, modern web application that "predicts" the next year based on user input. This project showcases a clean, Glassmorphism-Style UI with a responsive layout, dark mode, and dynamic feedback animations.
 
-# Link: https://fahimfaisaladitto.github.io/year/
+# Link: https://fahimfaisaladitto.github.io/year-predictor/
 
 # Screenshots
 <img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (1)" src="https://github.com/user-attachments/assets/53b0d5c2-9f99-40a7-ba68-0aefd8aac7ff" />
