@@ -73,4 +73,4 @@
 4. Open in Browser: Right-click the index.html file and choose "Open with" your preferred web browser (e.g., Chrome, Firefox, Safari, Edge).
 
 
-   That's it! The application will be running locally on your machine.
+ <h4 align="left">  That's it! The application will be running locally on your machine. </h4>
