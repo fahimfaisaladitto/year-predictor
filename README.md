@@ -1,5 +1,5 @@
 # Year Predictor
-<h3 align="left">A sleek, modern web application that "predicts" the next year based on user input. This project showcases a clean, Glassmorphism-Style UI with a responsive layout, dark mode, and dynamic feedback animations.</h3>
+<h4 align="left">A sleek, modern web application that "predicts" the next year based on user input. This project showcases a clean, Glassmorphism-Style UI with a responsive layout, dark mode, and dynamic feedback animations.</h4>
 
 <h2 align="left">Link: https://fahimfaisaladitto.github.io/year-predictor/ </h2>
 
