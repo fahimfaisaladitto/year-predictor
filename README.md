@@ -1,11 +1,15 @@
 # Year Predictor
-A sleek, modern web application that "predicts" the next year based on user input. This project showcases a clean, Glassmorphism-Style UI with a responsive layout, dark mode, and dynamic feedback animations.
+<h3 align="left">A sleek, modern web application that "predicts" the next year based on user input. This project showcases a clean, Glassmorphism-Style UI with a responsive layout, dark mode, and dynamic feedback animations.</h3>
 
-# Link: https://fahimfaisaladitto.github.io/year-predictor/
+<h2 align="left">Link: https://fahimfaisaladitto.github.io/year-predictor/ </h2>
 
-# Screenshots
+<h1 align="left"> Screenshots </h1> <h2 align="center"> Light Mode </h2>
 <img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (1)" src="https://github.com/user-attachments/assets/53b0d5c2-9f99-40a7-ba68-0aefd8aac7ff" />
 <img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io" src="https://github.com/user-attachments/assets/81e58e97-56d3-4979-89f5-961e58a14595" />
+<h2 align="center"> Dark Mode </h2>
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (3)" src="https://github.com/user-attachments/assets/7e3e8736-8c55-4965-9fbd-b35313f1ad54" />
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (2)" src="https://github.com/user-attachments/assets/4666747a-210e-44dd-992a-b86c8d038053" />
+
 
 
 
