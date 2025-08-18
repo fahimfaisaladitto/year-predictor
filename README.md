@@ -64,13 +64,12 @@
 • script.js: This file contains all the JavaScript code that powers the application's functionality, including the prediction logic and dark mode toggle.
 
 # Setup and Installation
-1. Since this project uses basic web technologies with no external dependencies (other than CDN links), the setup is straightforward.
+<h4 align="left">Since this project uses basic web technologies with no external dependencies (other than CDN links), the setup is straightforward.</h4>
 
-2. Clone or Download: Get a copy of all three files (index.html, style.css, and script.js).
+1. Clone or Download: Get a copy of all three files (index.html, style.css, and script.js).
 
-3. Keep Files Together: Ensure that all three files are located in the same folder or directory.
+2. Keep Files Together: Ensure that all three files are located in the same folder or directory.
 
-4. Open in Browser: Right-click the index.html file and choose "Open with" your preferred web browser (e.g., Chrome, Firefox, Safari, Edge).
+2. Open in Browser: Right-click the index.html file and choose "Open with" your preferred web browser (e.g., Chrome, Firefox, Safari, Edge).
 
-
- <h4 align="left">  That's it! The application will be running locally on your machine. </h4>
+<h4 align="left">  That's it! The application will be running locally on your machine. </h4>
