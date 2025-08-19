@@ -55,7 +55,7 @@
 • Dynamically setting the placeholder text.
 
 # Project Structure
-• The project is organized into three separate files for better maintainability:
+<h4 align="left"> The project is organized into three separate files for better maintainability: </h4>
 
 • index.html: This file contains the core structure and content of the web application. It links to the external CSS and JavaScript files.
 
