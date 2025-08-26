@@ -4,12 +4,17 @@
 <h2 align="left">Link: https://fahimfaisaladitto.github.io/year-predictor/ </h2>
 
 <h1 align="left"> Screenshots </h1> <h2 align="center"> Light Mode </h2>
-<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (1)" src="https://github.com/user-attachments/assets/53b0d5c2-9f99-40a7-ba68-0aefd8aac7ff" />
-<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io" src="https://github.com/user-attachments/assets/81e58e97-56d3-4979-89f5-961e58a14595" />
-<h2 align="center"> Dark Mode </h2>
-<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (3)" src="https://github.com/user-attachments/assets/7e3e8736-8c55-4965-9fbd-b35313f1ad54" />
-<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (2)" src="https://github.com/user-attachments/assets/4666747a-210e-44dd-992a-b86c8d038053" />
 
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (36)" src="https://github.com/user-attachments/assets/8a0cc4ea-be59-4766-ba8e-c09210e71cf6" />
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (37)" src="https://github.com/user-attachments/assets/73341a3c-3c8b-4a20-9859-929988a6aeed" />
+
+
+
+<h2 align="center"> Dark Mode </h2>
+
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (39)" src="https://github.com/user-attachments/assets/fb42ee94-e3b6-4fcb-b2aa-5d81549db3f5" />
+
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (38)" src="https://github.com/user-attachments/assets/30439025-3fbe-416a-9d77-02595d4d5a56" />
 
 
 
